@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "ztaconfig",
+      "defaultValue": "main",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }

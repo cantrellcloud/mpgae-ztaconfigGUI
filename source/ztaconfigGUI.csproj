@@ -124,8 +124,7 @@
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
-    <None Include="Properties\PublishProfiles\ztaconfig - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\ztaconfig - Web Deploy1.pubxml" />
+    <None Include="Properties\PublishProfiles\ztaconfig-main - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="images\logo-mpg.jpg" />
     <Content Include="Scripts\bootstrap.js" />
